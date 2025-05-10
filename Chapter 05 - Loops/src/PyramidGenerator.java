@@ -21,7 +21,7 @@ public class PyramidGenerator {
             }
 
             // Print numbers in descending order
-            for (int j = i; j >= 1; j--) {
+            for (int j = 2; j >= 1; j--) {
                 System.out.print(j + " ");
             }
 
