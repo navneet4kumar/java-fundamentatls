@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Fundamentals
 
 \*A summary of all the most important chapters in **Introduction to Java Programing - Y.Daniel.Liang\***
@@ -45,3 +46,7 @@ What makes this repository unique is that it contains _my takes_ on the exercise
 - [Chapter 30 - Multithreading and Parallel Programming](https://github.com/alitinart/java-fundamentals/tree/master/Chapter%2030%20-%20Multithreading%20and%20Parallel%20Programming)
 - [Chapter 31 - Networking](https://github.com/alitinart/java-fundamentals/tree/master/Chapter%2031%20-%20Networking)
 - [Chapter 32 - Java Database Programming](https://github.com/alitinart/java-fundamentals/tree/master/Chapter%2032%20-%20Java%20Database%20Programming)
+=======
+# java-fundamentatls
+java programming
+>>>>>>> 6a130e699d796dbed895eb9be75160cd12e5951f
