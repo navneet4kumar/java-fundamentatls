@@ -6,4 +6,5 @@ public class DisplayMessage {
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Java");
     }
+    
 }
